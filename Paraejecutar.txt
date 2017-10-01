@@ -1,0 +1,1 @@
+Importar archivo en eclipse. En la clase main del paquete main, elegir el nombre del fichero a introducir y ejecutar.
